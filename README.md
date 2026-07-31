@@ -246,19 +246,19 @@ Open your browser and go to: [http://localhost:8501](http://localhost:8501)
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-https://raw.githubusercontent.com/kuraln96-hu/Project_1/screenshots/home.png
+https://raw.githubusercontent.com/kuraln96-hu/Project_1/main/screenshots/home.png
 
 ### 📡 Live Matches
-https://raw.githubusercontent.com/kuraln96-hu/Project_1/screenshots/live_matches.png
+https://raw.githubusercontent.com/kuraln96-hu/Project_1/main/screenshots/live_matches.png
 
 ### 📊 Top Player Stats
-https://raw.githubusercontent.com/kuraln96-hu/Project_1/screenshots/player_stats.png
+https://raw.githubusercontent.com/kuraln96-hu/Project_1/main/screenshots/player_stats.png
 
 ### 🔍 SQL Analytics
-https://raw.githubusercontent.com/kuraln96-hu/Project_1/screenshots/sql_analytics.png
+https://raw.githubusercontent.com/kuraln96-hu/Project_1/main/screenshots/sql_analytics.png
 
 ### 🛠️ CRUD Operations
-https://raw.githubusercontent.com/kuraln96-hu/Project_1/screenshots/crud_operations.png
+https://raw.githubusercontent.com/kuraln96-hu/Project_1/main/screenshots/crud_operations.png
 
 ---
 
