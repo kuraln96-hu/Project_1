@@ -245,13 +245,20 @@ Open your browser and go to: [http://localhost:8501](http://localhost:8501)
 
 ## 📸 Screenshots
 
-*(Add actual screenshots here)*
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
 
-| Page | Screenshot |
-|---|---|
-| Home Page | [https://screenshots/home.png](https://screenshots/home.png) |
-| SQL Analytics | [https://screenshots/sql_analytics.png](https://screenshots/sql_analytics.png) |
-| CRUD Operations | [https://screenshots/crud.png](https://screenshots/crud.png) |
+### 📡 Live Matches
+![Live Matches](screenshots/live_matches.png)
+
+### 📊 Top Player Stats
+![Top Player Stats](screenshots/player_stats.png)
+
+### 🔍 SQL Analytics
+![SQL Analytics](screenshots/sql_analytics.png)
+
+### 🛠️ CRUD Operations
+![CRUD Operations](screenshots/crud_operations.png)
 
 ---
 
